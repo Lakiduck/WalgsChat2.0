@@ -1,0 +1,49 @@
+header{
+  background-color: #ffffff;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  padding-left: 4em;
+  box-shadow: 0em 0.065em 0.5em rgba(0, 0, 0, 0.3);
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
+
+header h1{
+  font-family: 'Monoton', 'cursive';
+}
+
+#messages{
+  width: 50%;
+}
+
+#messages p{
+  box-shadow: 0em 0.065em 0.5em rgba(0, 0, 0, 0.3);
+  padding-left: 2px;
+}
+
+.over{
+  border-style: none;
+  border-color: #000000;
+  border-width: thin;
+  position:absolute;
+  bottom:0;
+  width: 50%;
+}
+
+#message{
+  width: 91%;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+}
+
+.button{
+  border-radius: 12px;
+  background-color: #f69f9f;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
