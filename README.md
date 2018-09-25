@@ -1,2 +1,2 @@
 # WalgsChat2.0
-New and Approved Chat App using socket.io
+New and improved chat app using Socket.io
